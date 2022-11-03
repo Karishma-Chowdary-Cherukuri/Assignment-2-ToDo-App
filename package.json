@@ -10,7 +10,7 @@
   "keywords": [
     "todolist"
   ],
-  "author": "Tanpreet",
+  "author": "Neeraj",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.6",
